@@ -33,5 +33,6 @@ Interact with the slicers and visuals to explore the data.
 
 👤 Author [Arjun]
 
-LinkedIn: [https://www.linkedin.com/in/arjun-a-165673353/]
+LinkedIn: [https://www.linkedin.com/in/arjun-a-165673353/]\
+
 GitHub: [https://github.com/Arju-43]
